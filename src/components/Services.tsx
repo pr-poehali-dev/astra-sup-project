@@ -15,7 +15,7 @@ const Services = () => {
       ],
       price: "3 500 ₽",
       image:
-        "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       icon: "Zap",
       color: "adventure" as const,
     },
@@ -25,8 +25,8 @@ const Services = () => {
         "Насладитесь спокойным сплавом на SUP-доске по живописной реке. Красивые пейзажи и полное единение с природой.",
       features: [
         "Качественные SUP-доски и весла",
-        "Гидрокостюмы по размерам",
         "Обучение технике гребли",
+        "Водонепроницаемые сумки",
         "Водонепроницаемые сумки",
         "Перекус и горячий чай",
       ],

@@ -5,7 +5,7 @@ const Services = () => {
     {
       title: "Мотопрогулки",
       description:
-        "Откройте для себя красоту природы на мощном мотоцикле. Профессиональные гиды, безопасные маршруты и незабываемые впечатления.",
+        "Откройте для себя красоту природы на мощном мотоцикле. Исследуйте 3 уникальные локации: живописный карьер, заброшенный аэродром и уютную конюшню.",
       features: [
         "Профессиональный инструктор-гид",
         "Современная экипировка включена",
@@ -15,14 +15,14 @@ const Services = () => {
       ],
       price: "3 500 ₽",
       image:
-        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       icon: "Zap",
       color: "adventure" as const,
     },
     {
       title: "САП сплавы",
       description:
-        "Погрузитесь в мир водных приключений на SUP-доске. Спокойные воды, живописные пейзажи и полное единение с природой.",
+        "Насладитесь спокойным сплавом на SUP-доске по живописной реке. Красивые пейзажи и полное единение с природой.",
       features: [
         "Качественные SUP-доски и весла",
         "Гидрокостюмы по размерам",
@@ -32,7 +32,7 @@ const Services = () => {
       ],
       price: "2 800 ₽",
       image:
-        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       icon: "Waves",
       color: "ocean" as const,
     },
